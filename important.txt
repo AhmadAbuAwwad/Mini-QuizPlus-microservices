@@ -1,0 +1,14 @@
+Fixes:
+1-	Subscribe flow:
+		Payment then subscribe leads to:	==> Multiple charging	
+	Must delete charging operation
+
+2- 	Fix URL Architecture:		Read about URL best practice	==> Change every api url to best practice one
+
+3-	The architecture must be update with a gateway pattern to easily add more features in the future
+
+4- 	Integrate payment with Paypal in future
+
+5-	Add unlock quizzes and open books solutions to the project in future
+
+
